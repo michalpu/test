@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-Some content but differently modified
+Content from master
 
-new lines in master branch
-
-Some other content
-=======
-Some content from new branch
-
-bla bla bla
-
-should invoke some conflicts
->>>>>>> new-branch
+feature1
+feature2
